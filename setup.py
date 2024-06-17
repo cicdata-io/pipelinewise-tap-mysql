@@ -11,7 +11,7 @@ setup(name='pipelinewise-tap-mysql',
       long_description=long_description,
       long_description_content_type='text/markdown',
       author='Wise',
-      url='https://github.com/transferwise/pipelinewise-tap-mysql',
+      url='https://github.com/cicdata-io/pipelinewise-tap-mysql',
       classifiers=[
           'License :: OSI Approved :: GNU Affero General Public License v3',
           'Programming Language :: Python :: 3 :: Only'
